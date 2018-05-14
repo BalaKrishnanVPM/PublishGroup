@@ -1,0 +1,21 @@
+2017-11-22 22:02:26,633 [main] ERROR AirwatchRun - An Exception has occured in runTest method --> java.lang.NumberFormatException: null
+2017-11-22 22:05:30,976 [main] INFO AirwatchRun - Username Entered.
+2017-11-22 22:05:31,057 [main] INFO AirwatchRun - Password Entered.
+2017-11-22 22:05:33,579 [main] INFO AirwatchRun - Sumbit Button Clicked.
+2017-11-22 22:05:46,651 [main] INFO AirwatchRun - checking Popup Dialog is present or not in the console.
+2017-11-22 22:05:46,652 [main] INFO AirwatchRun -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-22 22:05:48,950 [main] INFO AirwatchRun - Config and Settings Menu clicked.
+2017-11-22 22:05:51,098 [main] INFO AirwatchRun - Groups menu Clicked.
+2017-11-22 22:05:53,265 [main] INFO AirwatchRun - AssignmentGroups Submenu clicked.
+2017-11-22 22:06:01,452 [main] INFO AirwatchRun - Edit button click touched.
+2017-11-22 22:06:01,788 [main] INFO AirwatchRun - Enetring the ZPLNO in Add Device TextBox
+2017-11-22 22:06:10,068 [main] INFO AirwatchRun - Add button  Clicked
+2017-11-22 22:06:10,481 [main] INFO AirwatchRun - PageSIze dropdown Clicked to increase the page size to 100
+2017-11-22 22:06:12,616 [main] INFO AirwatchRun - Preview search box Clicked.
+2017-11-22 22:06:12,848 [main] INFO AirwatchRun - Enetring the ZPLNO in search box
+2017-11-22 22:07:20,361 [main] ERROR AirwatchRun - An Exception has occured in getElement method --> org.openqa.selenium.TimeoutException: Timed out after 60 seconds waiting for visibility of element located by By.xpath: //td[@class='device_name']
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'MUMD20193', ip: '10.207.13.37', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\BCHELL~1.COR\AppData\Local\Temp\scoped_dir7768_1111}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=62.0.3202.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 9d8fd4d26e19c92fb82463c089049f44
